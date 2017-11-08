@@ -1,0 +1,20 @@
+body{
+	background: #1A1A1A url('http://hotdot.pro/img/inner_bck.jpg') 50% 0% no-repeat
+}
+
+.text-orange{
+  color:#ffc107;
+}
+
+.text-green{
+  color:green;
+}
+
+.card-block{
+    background-color: #333;
+    padding: 20px;
+}
+
+.error404{height:100%;width:100%}
+.error404 h1{color:#FF3333;font-size:90px}
+.error404 p{color:white;font:xx-large 'PT Sans',Tahoma,sans-serif}
